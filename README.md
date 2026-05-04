@@ -8,21 +8,21 @@ The infrastructure is designed to support a cloud-native CI/CD workflow integrat
 ---
 
 ## 🏗️ Architecture
-
-- Developer Push  
+```bash
+Developer Push  
   ↓  
-- GitLab CI/CD Pipeline  
+GitLab CI/CD Pipeline  
   ↓  
-- Docker Image Build  
+Docker Image Build  
   ↓  
-- GitLab Container Registry  
+GitLab Container Registry  
   ↓  
-- Terraform Provisions AWS Infrastructure  
+Terraform Provisions AWS Infrastructure  
   ↓  
-- Amazon EKS Cluster  
+Amazon EKS Cluster  
   ↓  
-- Helm Deploys Microservices  
-
+Helm Deploys Microservices  
+```
 
 ---
 

@@ -148,5 +148,6 @@ Through this project, the following skills were demonstrated:
 <img width="1600" height="1134" alt="image" src="https://github.com/user-attachments/assets/41aedc66-2c76-4dab-8dd9-16a0a7472ce3" />
 
 
-  <img width="1600" height="908" alt="WhatsApp Image 2026-05-04 at 11 46 42 PM" src="https://github.com/user-attachments/assets/7132d62a-b451-4bae-ad6b-66ba136980b4" />
+<img width="2876" height="1608" alt="image" src="https://github.com/user-attachments/assets/bc71d9f5-10a6-4972-aee6-1d337bed6ad1" />
+
 

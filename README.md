@@ -55,13 +55,14 @@ This Terraform project automatically creates:
 ---
 
 ## 📁 Project Structure
+```bash
 terraform-eks/
 ├── provider.tf
 ├── versions.tf
 ├── variables.tf
 ├── main.tf
 ├── outputs.tf
-
+```
 
 ---
 
@@ -86,19 +87,19 @@ aws configure
 git clone <repository-url>
 cd terraform-eks
 ```
-###2️⃣ Initialize Terraform
+### 2️⃣ Initialize Terraform
 ```bash
 terraform init
 ```
-###3️⃣ Preview Infrastructure
+### 3️⃣ Preview Infrastructure
 ```bash
 terraform plan
 ```
-###4️⃣ Provision Infrastructure
+### 4️⃣ Provision Infrastructure
 ```bash
 terraform apply
 ```
-###☁️ Connect to EKS Cluster
+### ☁️ Connect to EKS Cluster
 ```bash
 aws eks update-kubeconfig --region ap-south-1 --name microservices-eks
 ```
@@ -106,7 +107,7 @@ Verify cluster:
 ```bash
 kubectl get nodes
 ```
-###📦 Deploy Application
+### 📦 Deploy Application
 
 Deploy microservices using Helm:
 ```bash
@@ -116,14 +117,14 @@ Check running pods:
 ```bash
 kubectl get pods
 ```
-###🧹 Destroy Infrastructure
+### 🧹 Destroy Infrastructure
 
 To avoid AWS charges:
 ```bash
 terraform destroy
 ```
 
-✨ Features
+### ✨ Features
 Infrastructure as Code
 - Automated Kubernetes Cluster Provisioning
 - Scalable Worker Nodes
@@ -131,7 +132,7 @@ Infrastructure as Code
 - CI/CD Ready
 - Production-style Networking Setup
 - 
-📚 Learning Outcomes
+### 📚 Learning Outcomes
 Through this project, the following skills were demonstrated:
 - Cloud Infrastructure Provisioning
 - Kubernetes Cluster Management

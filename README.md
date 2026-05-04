@@ -131,7 +131,8 @@ Infrastructure as Code
 - Cloud-native Deployment Architecture
 - CI/CD Ready
 - Production-style Networking Setup
-- 
+
+
 ### 📚 Learning Outcomes
 Through this project, the following skills were demonstrated:
 - Cloud Infrastructure Provisioning
@@ -140,3 +141,9 @@ Through this project, the following skills were demonstrated:
 - Container Orchestration
 - CI/CD Integration
 - Production Debugging and Deployment Strategies
+
+  <img width="1600" height="970" alt="image" src="https://github.com/user-attachments/assets/b6e9ee61-cc7d-4969-8eb1-9e1631b3732d" />
+
+  <img width="1600" height="970" alt="image" src="https://github.com/user-attachments/assets/dc2e5742-ed9f-4322-8ec2-a118866a7477" />
+
+  <img width="1600" height="908" alt="WhatsApp Image 2026-05-04 at 11 46 42 PM" src="https://github.com/user-attachments/assets/7132d62a-b451-4bae-ad6b-66ba136980b4" />
